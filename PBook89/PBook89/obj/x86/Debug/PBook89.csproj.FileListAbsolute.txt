@@ -1,0 +1,7 @@
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\bin\Debug\PBook89.exe
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\bin\Debug\PBook89.pdb
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\obj\x86\Debug\PBook89.Form1.resources
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\obj\x86\Debug\PBook89.Properties.Resources.resources
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\obj\x86\Debug\PBook89.csproj.GenerateResource.Cache
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\obj\x86\Debug\PBook89.exe
+C:\Users\mrvis\OneDrive\Desktop\project\PBook89\PBook89\obj\x86\Debug\PBook89.pdb
